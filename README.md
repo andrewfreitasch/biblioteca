@@ -39,6 +39,19 @@ sql/
 * Registro de devoluções
 * Consulta de empréstimos
 
+Instalação
+Clone o repositório:
+git clone https://github.com/seu-usuario/biblioteca.git
+Entre na pasta do projeto:
+cd biblioteca
+Instale as dependências:
+npm install
+
+
+Configure as variáveis de ambiente utilizando o arquivo .env.example.
+Execute a aplicação:
+npm start
+
 ## Banco de Dados
 
 O script de criação das tabelas está disponível em:
