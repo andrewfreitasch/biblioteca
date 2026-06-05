@@ -41,13 +41,13 @@ sql/
 
 ## Instalação
 Clone o repositório:
-git clone https://github.com/seu-usuario/biblioteca.git
+git clone https://github.com/andrewfreitasch/biblioteca
 Entre na pasta do projeto:
 cd biblioteca
 Instale as dependências:
 npm install
 
-
+o
 Configure as variáveis de ambiente utilizando o arquivo .env.example.
 Execute a aplicação:
 npm start
