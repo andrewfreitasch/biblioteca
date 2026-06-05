@@ -39,7 +39,7 @@ sql/
 * Registro de devoluções
 * Consulta de empréstimos
 
-Instalação
+## Instalação
 Clone o repositório:
 git clone https://github.com/seu-usuario/biblioteca.git
 Entre na pasta do projeto:
